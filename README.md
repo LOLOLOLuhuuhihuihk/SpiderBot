@@ -1,0 +1,2 @@
+# SpiderBot
+a discord bot.
